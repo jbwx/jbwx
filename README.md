@@ -15,11 +15,11 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 -   Node.js/npm
 
 **Things I'm currently working on**
-- Frontend stuff at [Kairos Media](thekairosmedia.com)
-- Calvinchimes.org
+- Frontend stuff at [Kairos Media](https://thekairosmedia.com/)
+- [Calvinchimes.org](https://calvinchimes.org/)
 - [Markthrough](https://github.com/jbwx/Markthrough)
 
-Here, you can find some some of my personal projects, and/or plans for upcoming projects. If you want more of an extended biography, see [jacobwestra.com](jacobwestra.com)
+Here, you can find some some of my personal projects, and/or plans for upcoming projects. If you want more of an extended biography, see [jacobwestra.com](https://jacobwestra.com/)
 
 ---
 
