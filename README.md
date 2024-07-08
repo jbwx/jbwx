@@ -15,7 +15,8 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 -   Node.js/npm
 
 **Things I'm currently working on**
-- Frontend stuff at [Kairos Media](https://thekairosmedia.com/)
+- Web stuff at [Kairos Media](https://thekairosmedia.com/)
+- [LGWI Liquid Metrics](https://github.com/LifeGivingWaterInternational/LiquidMetrics)
 - [Calvinchimes.org](https://calvinchimes.org/)
 - [Markthrough](https://github.com/markthrough/markthrough.github.io)
 
