@@ -17,7 +17,8 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 **Tools I use**
 -   Zed
 -   Figma
--   Node.js/npm
+-   npm
+-   Github
 
 **Things I'm currently working on**
 - Web stuff at [Kairos Media](https://thekairosmedia.com/)
