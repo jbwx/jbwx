@@ -4,10 +4,15 @@
 
 I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent graduate of Calvin University, where I studied computer science.
 
-**Some of my interests include...**
--   Frontend development
--   P2p architecture
--   Pseudorandom number generation
+**Some of my hobbies include...**
+-   Hiking
+-   Kayaking
+-   Writing
+
+**My interests in computer science include...**
+- P2P architecture
+- Hash functions
+- Procedural generation
 
 **Tools I use**
 -   Zed
@@ -16,7 +21,6 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 
 **Things I'm currently working on**
 - Web stuff at [Kairos Media](https://thekairosmedia.com/)
-- [LGWI Liquid Metrics](https://github.com/LifeGivingWaterInternational/LiquidMetrics)
 - [Calvinchimes.org](https://calvinchimes.org/)
 - [Markthrough](https://github.com/markthrough/markthrough.github.io)
 
