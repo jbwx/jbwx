@@ -10,6 +10,7 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 -   Writing
 
 **My interests in computer science include...**
+- Web stuff
 - P2P architecture
 - Hash functions
 - Procedural generation
@@ -18,7 +19,7 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 -   Zed
 -   Figma
 -   npm
--   Github
+-   Github (pages)
 
 **Things I'm currently working on**
 - Web stuff at [Kairos Media](https://thekairosmedia.com/)
