@@ -6,8 +6,9 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 
 **Some of my hobbies include...**
 -   Hiking
--   Kayaking
 -   Writing
+-   Kayaking
+-   Modifying said kayak
 
 **My interests in computer science include...**
 - Web stuff
