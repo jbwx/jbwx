@@ -19,13 +19,13 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 **Tools I use**
 -   Zed
 -   Figma
--   npm
+-   Node/npm
 -   Github (pages)
 
 **Things I'm currently working on**
 - Web stuff at [Kairos Media](https://thekairosmedia.com/)
-- [Calvinchimes.org](https://calvinchimes.org/)
 - [Markthrough](https://github.com/markthrough/markthrough.github.io)
+- [My Blog](https://jacobwestra.com/blog)
 
 Here, you can find some some of my personal projects, and/or plans for upcoming projects. If you want more of an extended biography, see [jacobwestra.com](https://jacobwestra.com/).
 
