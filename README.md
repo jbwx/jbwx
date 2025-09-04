@@ -12,15 +12,16 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 
 **My interests in computer science include...**
 - Web stuff
-- P2P architecture
+- P2P / client-only architecture
 - Hash functions
 - Procedural generation
 
 **Tools I use**
--   Zed
+-   Zed (for writing code)
+-   Zed (for notetaking)
 -   Figma
--   Node/npm
 -   Github (pages)
+-   The latest-and-greatest trendy AI tool
 
 **Things I'm currently working on**
 - Web stuff at [Kairos Media](https://thekairosmedia.com/)
