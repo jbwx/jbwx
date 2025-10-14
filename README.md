@@ -21,7 +21,8 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 -   Zed (for notetaking)
 -   Figma
 -   Github (pages)
--   The latest-and-greatest trendy AI tool
+-   The latest-and-greatest AI tool
+-   UploadThing
 
 **Things I'm currently working on**
 - Web stuff at [Kairos Media](https://thekairosmedia.com/)
