@@ -18,7 +18,7 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 **My interests in computer science include...**
 - Web stuff
 - P2P / client-only architecture
-- Hash functions
+- Randomness & pseudorandomness
 - Procedural generation
 
 **Tools I use**
