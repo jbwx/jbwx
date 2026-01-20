@@ -10,10 +10,10 @@ I'm Jacob Westra. I'm a software developer from Grand Rapids, MI. I'm a recent g
 -   Kayaking
 -   Modifying said kayak
 -   Hating on the following states:
-  * New Jersey
-  * Indiana
-  * Illinois
-  * Pennsylvania
+    * New Jersey
+    * Indiana
+    * Illinois
+    * Pennsylvania
 
 **My interests in computer science include...**
 - Web stuff
